@@ -4,3 +4,5 @@ Its a simple GUI and Deep-Learning Based game.Basically data is being manually c
 the optimal move for the computer depending on the behaivour of playing of the user.Currently due to lack of applicative data it works in a little biased way though:|.
 ## Language Used:
 - Python
+## GUI Module:
+- Tkinter
